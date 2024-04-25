@@ -1,0 +1,55 @@
+estilo.css
+*{
+    margin: 0;
+    padding:0;
+    font-family: Tahoma, sans-serif;
+}
+div{
+    text-align: center;
+    padding:50px;
+    background-color:#f5f5f5;
+    border:1px solid black;
+}
+
+
+h1 {
+    font-size:28px;
+    text-align: center;
+    color:black;
+    font-weight:bold;
+    
+}
+img{
+    width: 190px;
+    border:1px solid black;
+}
+h2{
+    font-size:25px;
+    color:black;
+    margin:50px;
+    font-weight:bold;
+}
+h3{
+    font-weight:bold;
+    color:black;
+}
+p{
+    width:930px;
+    margin: 15px auto 30px auto;
+    line-height: 28px;
+    text-align:center;
+    font-size:16px;
+}
+a{
+    font-size:14px;
+    text-decoration: none;
+    background-color: green;
+    color:white;
+    border-radius: 25px;
+    padding:10px 30px;
+    border:1px solid black;
+    font-weight:bold;
+}
+span{
+    font-weight:bold;
+}
